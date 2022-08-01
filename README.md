@@ -13,7 +13,7 @@ The converted datatype will be used to  create a set of visualizations to:
 
 Software:       Visual Studio Code Version: , Tableau Desktop (Public Edition)
 Files:          NYC_CitiBike_Challenge_starter_code.ipynb,
-                201908-citibike-tripdata.csv
+               citibike-tripdata.csv
 
 ## Data Preparation and Manipulation
 
